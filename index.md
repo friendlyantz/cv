@@ -6,6 +6,10 @@ title: Anton Panteleevs's CV
 
 Software Engineer, with extensive Project and Product Management Background
 
+[My Contact Details](https://hihello.me/p/db5da52c-99b3-4945-b2f9-259e398f6541)
+
+[My Webpage](https://friendlyantz.me)
+
 ## Currently
 
 FinTech Software Engineer at [Zepto](https://www.zepto.com.au/)
