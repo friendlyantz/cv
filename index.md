@@ -1,61 +1,42 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Anton Panteleevs's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Anton Panteleev
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+Software Engineer, with extensive Project and Product Management Background
 
 ## Currently
 
-Standing on the shoulders of giants
+FinTech Software Engineer at [Zepto](https://www.zepto.com.au/)
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+BackEnd
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+CyberSecurity, Artificial Intelligence
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011`
+__Master of Construction Management (Dist.) - Auckland University of Technology__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2004-2009`
+__Specilist of Civil Engineering (Project Management and Economics) - MSUCE__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
+<!-- ## Awards
 
 `2012`
 President, *Royal Society*, London, UK
 
-Associate, *French Academy of Science*, Paris, France
+Associate, *French Academy of Science*, Paris, France -->
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
+<!-- ### Journals
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -69,23 +50,22 @@ etc. etc. etc.
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+ -->
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2021-2022`
+__Zepto__, Melbourne, Australia
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Software & CyberSecurity Engineer
+- Ruby on Rails
+- PostgreSQL
+- AWS
+- Datadog
+- Terraform
 
 
+`2021`
+__ReadyTech__, Melbourne, Australia
+
+- Software Engineer
