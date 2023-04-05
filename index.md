@@ -23,7 +23,7 @@ BackEnd
 
 ### Research interests
 
-CyberSecurity, Artificial Intelligence, HardWare
+- CyberSecurity, Artificial Intelligence, HardWare
 
 ## Education
 
@@ -35,29 +35,27 @@ __Specilist of Civil Engineering (Project Management and Economics) - MSUCE__
 
 ### Skills
 - Excellent communicator and team player
-- Test Driven Development (RSpec + Cypress e2e)
-- Bussiness Driven Development and Domain Driven Design
-- _Languages:_ Ruby on Rails, JavaScript, Python, SQL, Golang
+- Test Driven Development TDD, BDD & DDD; (RSpec + Cypress e2e)
+- _Languages:_ Ruby on Rails, JavaScript, Python & Jupiter Labs, SQL, Golang
 - _Observability:_ OpenTelemetry, DataDog, Grafana, Sentry
 - _DataBases:_ Postgres, Redis
-- _Cloud:_ AWS, Heroku
-- _CI/CD_: BuildKite, ArgoCD, GitHub Actions
-- Queueing Theory, Sidekiq
+- _Cloud and Infra:_ Terraform, Docker, Heroku, BuildKite, ArgoCD, GitHub Actions
+- _Security:_ CrowdStrike, Okta, GitHub Advanced Security, DataDog Security Monitoring
+- _AI / ML:_ Jupiter Labs, Pandas, Numpy
 
 ## Work Experience
 
 `2021-2022`
 __Zepto__, Melbourne, Australia
 
-- Software & CyberSecurity Engineer
+- _Software & CyberSecurity Engineer_
 - Anti-Money Laundering, Stored Value, Digital Wallets, Payment Systems, Open Banking, PayTo
 - Ruby on Rails, PostgreSQL, AWS, Datadog, Terraform
-- Okta, CrowdStrike, GitHub Advanced Security
 
 `2021`
 __ReadyTech__, Melbourne, Australia
 
-- Software Engineer incl CI/CD tasks
+- _Software Engineer incl CI/CD tasks_
 - Machine Learning
 - Ruby on Rails, PostgreSQL, JavaScript, CypressTest
 - AWS, BuildKite
@@ -66,7 +64,7 @@ __ReadyTech__, Melbourne, Australia
 Client-Side Project Manager - CBRE / Montlaur
 
 `2017 - 2018`
-Client-Side Project Manager - Development Advisory Services Ltd, Auckland, NZ
+Client-Side Development Manager - DASL, Auckland, NZ
 
 `2013 - 2016`
 Development Manager - Westview Developments Ltd, Auckland, NZ
@@ -75,10 +73,7 @@ Development Manager - Westview Developments Ltd, Auckland, NZ
 Client-Side Project Manager / Contract Admin - RCP, Auckland, NZ
 
 `2009 - 2010`
-Assistant Development Manager
-
-`2004 - 2009`
-Contract Admin
+Assistant Development Manager & Contract Admin
 
 ### Interests
 Kitesurfing, motorcycing, photography, travel
