@@ -4,13 +4,14 @@ title: Anton Panteleevs's CV
 ---
 # Anton Panteleev
 
-Software Engineer, with extensive Project and Product Management Background
+Software Engineer, with extensive Product experience
 
-[Contact Details](https://hihello.me/p/db5da52c-99b3-4945-b2f9-259e398f6541)
-[Personal Profile](https://friendlyantz.me)
-[friendlyantz@pm.me](mailto:friendlyantz@pm.me)
-[GitHub](https://github.com/friendlyantz)
-[LinkedIn](https://www.linkedin.com/in/panteleev)
+[friendlyantz.me](https://friendlyantz.me) |
+[Contact Details](https://hihello.me/p/db5da52c-99b3-4945-b2f9-259e398f6541) | 
+[email: friendlyantz@pm.me](mailto:friendlyantz@pm.me)
+
+[GitHub: friendlyantz](https://github.com/friendlyantz) | 
+[LinkedIn: /in/panteleev](https://www.linkedin.com/in/panteleev)
 
 ## Currently
 
@@ -32,55 +33,34 @@ __Master of Construction Management (Dist.) - Auckland University of Technology_
 `2004-2009`
 __Specilist of Civil Engineering (Project Management and Economics) - MSUCE__
 
-<!-- ## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France -->
-
-
-<!-- ### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-<!-- ### Patents -->
-
 ### Skills
 - Excellent communicator and team player
-- Test Driven Development TDD (RSpec + Cypress e2e)
-- SQL / Postgres
-- Ruby on Rails
+- Test Driven Development (RSpec + Cypress e2e)
+- Bussiness Driven Development and Domain Driven Design
+- _Languages:_ Ruby on Rails, JavaScript, Python, SQL, Golang
+- _Observability:_ OpenTelemetry, DataDog, Grafana, Sentry
+- _DataBases:_ Postgres, Redis
+- _Cloud:_ AWS, Heroku
+- _CI/CD_: BuildKite, ArgoCD, GitHub Actions
+- Queueing Theory, Sidekiq
 
-## Occupation
+## Work Experience
 
 `2021-2022`
 __Zepto__, Melbourne, Australia
 
 - Software & CyberSecurity Engineer
-- Ruby on Rails
-- PostgreSQL
-- AWS
-- Datadog
-- Terraform
-
+- Anti-Money Laundering, Stored Value, Digital Wallets, Payment Systems, Open Banking, PayTo
+- Ruby on Rails, PostgreSQL, AWS, Datadog, Terraform
+- Okta, CrowdStrike, GitHub Advanced Security
 
 `2021`
 __ReadyTech__, Melbourne, Australia
 
-- Software Engineer incl DevOps
+- Software Engineer incl CI/CD tasks
 - Machine Learning
-- Ruby on Rails
-- PostgreSQL
-- Python
-- AWS
-- BuildKite
+- Ruby on Rails, PostgreSQL, JavaScript, CypressTest
+- AWS, BuildKite
 
 `2019 - 2020`
 Client-Side Project Manager - CBRE / Montlaur
@@ -99,9 +79,6 @@ Assistant Development Manager
 
 `2004 - 2009`
 Contract Admin
-
-### References
-Available upon request
 
 ### Interests
 Kitesurfing, motorcycing, photography, travel
