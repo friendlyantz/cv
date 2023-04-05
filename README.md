@@ -1,6 +1,7 @@
 ## my CV repo.
 
-Check website for a web view
+Check website for a web view:
+
 [https://friendlyantz.github.io/cv/](https://friendlyantz.github.io/cv/)
 
 ## Run locally
