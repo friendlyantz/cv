@@ -36,12 +36,12 @@ __Specilist of Civil Engineering (Project Management and Economics) - MSUCE__
 ### Skills
 - Excellent communicator and team player
 - Test Driven Development TDD, BDD & DDD; (RSpec + Cypress e2e)
-- _Languages:_ Ruby on Rails, JavaScript, Python & Jupiter Labs, SQL, Golang
+- _Languages:_ Ruby on Rails, JavaScript, Python & Jupiter Labs, SQL
 - _Observability:_ OpenTelemetry, DataDog, Grafana, Sentry
-- _DataBases:_ Postgres, Redis
+- _DataBases:_ Postgres, Redis, CockroachDB(learning)
 - _Cloud and Infra:_ Terraform, Docker, Heroku, BuildKite, ArgoCD, GitHub Actions
 - _Security:_ CrowdStrike, Okta, GitHub Advanced Security, DataDog Security Monitoring
-- _AI / ML:_ Jupiter Labs, Pandas, Numpy
+- _AI / ML:_ Jupiter Labs
 
 ## Work Experience
 
