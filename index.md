@@ -38,14 +38,14 @@ title: Anton Panteleevs's CV
 
 ## Work Experience
 
-`2021-2023`
+`2021.NOV-2023.JUL`
 __Zepto__, Melbourne, Australia
 
 - _FinTech Software & CyberSecurity Engineer_
 - Anti-Money Laundering, Stored Value, Digital Wallets, Payment Systems, Open Banking, PayTo
 - Ruby on Rails, PostgreSQL, AWS, Datadog, Terraform
 
-`2021`
+`2021.MAY-2021.NOV`
 __ReadyTech__, Melbourne, Australia
 
 - _Software Engineer incl CI/CD tasks_
