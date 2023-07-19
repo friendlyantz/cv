@@ -7,4 +7,4 @@ title: Anton Panteleev
 {% include skills.md %}
 {% include exp.md %}
 {% include edu.md %}
-{% include interests.md %}
+<!-- {% include interests.md %} -->
