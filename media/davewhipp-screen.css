@@ -31,6 +31,12 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+@media screen and (min-width: 1200px) {
+  body {
+    width: 50%;
+		margin: 0 auto !important;
+  }
+}
 ol, ul {
 	list-style: none;
 }
@@ -53,7 +59,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 100%;
+	font-size: 80%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
@@ -71,7 +77,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 70%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
