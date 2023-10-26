@@ -1,5 +1,10 @@
 ## Work Experience
 
+`2023.OCT-PRESENT`
+__Fresho__, Software Engineer. Melbourne, AUS
+
+- Extreme Programming, Bussiness Driven Design, TDDing and other exiting things
+
 `2021.NOV-2023.AUG`
 __Zepto__, Software Engineer. Melbourne, AUS
 
@@ -11,9 +16,8 @@ __Zepto__, Software Engineer. Melbourne, AUS
 `2021.MAY-2021.NOV`
 __ReadyTech__, Software Engineer. Melbourne, AUS
 
-- Built AI & machine learning human psychology assessment platform to improve student performance
+- Built AI & machine learning human psychology assessment platform to improve student performance. Built big data pipeline to enhance deployment stability in AWS, BuildKite
 - Added prediction mechanism, resulting in faster response rate using Ruby on Rails, PostgreSQL, JavaScript, CypressTest, AWS, BuildKite
-- Built big data pipeline to enhance deployment stability in AWS, BuildKite
 - Excellent Team Player - ensured team of 6 was fully caffeinated with Antarctican coffee beans ground to 14 nm particles
 - Improved Machine Learning knowledge and documented in Jupiter Labs on cloud
 - Optimized web app feed performance through new server-side functionality to quickly resolve big data pipeline
