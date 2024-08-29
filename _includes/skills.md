@@ -1,4 +1,4 @@
-### Skills
+## Skills
 
 - Excellent communicator and team player
 - System Design and CS
