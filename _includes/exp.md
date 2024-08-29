@@ -3,7 +3,7 @@
 `2023.OCT-PRESENT`
 __Fresho__, Software Engineer. Melbourne, AUS
 
-- Extreme Programming, Bussiness Driven Design, TDDing and other exiting things
+- 'Extreme Programming' using Test Driven Dev methodologies to deliver high perfromance and scalable B2B SaaS solution for AUS/UK food and hospitality industries
 
 `2021.NOV-2023.AUG`
 __Zepto__, Software Engineer. Melbourne, AUS

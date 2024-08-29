@@ -1,5 +1,4 @@
 ## Specialities
 
-- Experienced product focused Software Engineer with a background of building scalable systems in FinTech, Government, Education using Machine Learning
-- Expert in Data/Business Driven Development and Platform Software Design
-- Ruby, Rails, Elixir
+- Software Engineer with experience in building scalable and distributed systems using Event-Driven Architecture with Ruby on Rails, Python, and AWS.
+- Expertise in Business-Driven Development and Test-Driven Development, with a strong focus on delivering value for money.

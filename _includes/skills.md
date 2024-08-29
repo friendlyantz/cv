@@ -1,11 +1,11 @@
 ### Skills
 
 - Excellent communicator and team player
-- System Design and Computer Science Fundamentals
-- _Testing:_ TDD, BDD & DDD;
-- _Languages:_ Ruby on Rails, Elixir, JavaScript, Python, Go
-- _Observability:_ OpenTelemetry, DataDog, Grafana, Sentry
-- _AWS Exposure_: EC2, Lambda, SQS, Kinesis, S3
-- _IaC, Cloud:_ Terraform, Docker, Heroku, BuildKite, ArgoCD, GitHub Actions
+- System Design and CS
+- _Testing:_ Test Driven Development(Rspec, Cypress)
+- _Languages:_ Ruby on Rails, Elixir, Python, C(basic), JavaScript 
+- _Observability:_ OpenTelemetry, NewRelic, DataDog, Grafana, Sentry
+- _AWS_: EC2, Lambda, SQS, Kinesis, S3
+- _IaC, Cloud:_ Terraform, Docker, Heroku, Semaphore, BuildKite, GitHub Actions
 - _Security:_ CrowdStrike, Okta, GitHub Advanced Security, DataDog Security Monitoring
-- _AI / ML:_ Jupiter Labs
+
