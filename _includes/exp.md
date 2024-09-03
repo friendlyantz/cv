@@ -4,6 +4,7 @@
 __Fresho__, Software Engineer. Melbourne, AUS
 
 - 'Extreme Programming' using Test Driven Dev methodologies to deliver high perfromance and scalable B2B SaaS solution for AUS/UK food and hospitality industries
+- Delivered distributed event-driven micro applications to allow users predict cashflow
 
 `2021.NOV-2023.AUG`
 __Zepto__, Software Engineer. Melbourne, AUS
@@ -12,7 +13,6 @@ __Zepto__, Software Engineer. Melbourne, AUS
 - Built Digital Ledger prototype, using Event Bus on Amazon AWS
 - Improved security via DataDog Observability, Okta, CrownStrike and GitHub advanced sec resulting in ISO compliance
 - Added prediction mechanism, resulting in faster response rate using Ruby on Rails, PostgreSQL, JavaScript, CypressTest, AWS, BuildKite
-- Optimized web app feed performance through new server-side functionality to quickly resolve big data pipeline
 
 `2021.MAY-2021.NOV`
 __ReadyTech__, Software Engineer. Melbourne, AUS
@@ -22,8 +22,6 @@ __ReadyTech__, Software Engineer. Melbourne, AUS
 - Improved Machine Learning knowledge and documented in Jupiter Labs on cloud
 
 <!-- `2013 - 2020`
-__FloatCultue StartUp__ - GM / Engineer, Auckland, NZ
-
 - Optimized web app feed performance through new server-side functionality to quickly resolve big data pipeline
 - Successfully tested Google developed Tensorflow then switched to Facebook developed Pytorch
 - Airbnb developed Airflow is where I had run data pipelines. -->
