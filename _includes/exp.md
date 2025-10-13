@@ -1,6 +1,12 @@
 ## Work Experience
 
-`2023.OCT-PRESENT`
+`2025.OCT-PRESENT`
+__Marketplacer__, Software Engineer. Melbourne, AUS
+
+- Developed Marketplacer’s platform using React, Ruby on Rails, and GraphQL to connect large retailers with small online sellers.
+- Implemented payment system setup and delivered scalable solutions in a fast-paced startup to enhance user experience and marketplace integration.
+
+`2023.OCT-2025.JUL`
 __Fresho__, Software Engineer. Melbourne, AUS
 
 - 'Extreme Programming' using Test Driven Dev methodologies to deliver high perfromance and scalable B2B SaaS solution for AUS/UK food and hospitality industries
@@ -18,7 +24,7 @@ __Zepto__, Software Engineer. Melbourne, AUS
 __ReadyTech__, Software Engineer. Melbourne, AUS
 
 - Built AI & machine learning human psychology assessment platform to improve student performance. Built big data pipeline to enhance deployment stability in AWS, BuildKite
-- Excellent Team Player - ensured team of 6 was fully caffeinated with Antarctican coffee beans ground to 14 nm particles
+<!-- - Excellent Team Player - ensured team of 6 was fully caffeinated with Antarctican coffee beans ground to 14 nm particles -->
 - Improved Machine Learning knowledge and documented in Jupiter Labs on cloud
 
 <!-- `2013 - 2020`
