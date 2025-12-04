@@ -1,10 +1,11 @@
 ## Work Experience
 
-`2025.OCT-PRESENT`
+`2025.SEP-2025.DEC`
 __Marketplacer__, Software Engineer. Melbourne, AUS
 
 - Developed Marketplacer’s platform using React, Ruby on Rails, and GraphQL to connect large retailers with small online sellers.
-- Implemented payment system setup and delivered scalable solutions in a fast-paced startup to enhance user experience and marketplace integration.
+- Implemented payment system setup via Airwallex and delivered scalable account reconciliation solutions in a fast-paced scale-up to enhance user experience and marketplace integration.
+- Mentored junior engineers
 
 `2023.OCT-2025.JUL`
 __Fresho__, Software Engineer. Melbourne, AUS
