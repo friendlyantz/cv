@@ -6,7 +6,7 @@ __Zepto__, Software Engineer. Melbourne, AUS
 - Built Anti-Money Laundering infrastructure using Ruby on Rails for AI and Machine Learning processing using Ruby on Rails, PostgreSQL, Datadog, Terraform
 - Built Digital Wallet and Ledger prototype for future integration with Blockchain, using Event Bus on Amazon AWS to provide a next gen Open Banking and PayTo
 - Implemented security improvements via deduplication and advanced profile ranking resulting in faster business processes
-- Improved Machine Learning knowledge and documented in Jupiter Labs on cloud
+- Improved Machine Learning knowledge and documented in Jupyter Labs on cloud
 
 `2021.MAY-2021.NOV`
 __ReadyTech__, Software Engineer. Melbourne, AUS
@@ -15,10 +15,10 @@ __ReadyTech__, Software Engineer. Melbourne, AUS
 - Added prediction mechanism, resulting in faster response rate using Ruby on Rails, PostgreSQL, JavaScript, CypressTest
 - Built big data pipeline to enhance deployment stability in AWS, BuildKite
 <!-- - Ensured team of 6 was fully caffeinated with Antarctican coffee beans ground to 14 nm particles -->
-- Successfully used Microsoft developed Azure, Google developed GCP, and Amazon AWS kwags.
+- Successfully used Microsoft developed Azure, Google developed GCP, and Amazon AWS.
 
 `2013 - 2020`
-__FloatCultue StartUp__ - GM / Engineer, Auckland, NZ
+__FloatCulture StartUp__ - GM / Engineer, Auckland, NZ
 
 - Improved search algorithm efficiency and accuracy through the usage of VoldemortDB
 - Optimized web app feed performance through new server-side functionality to quickly resolve big data pipeline

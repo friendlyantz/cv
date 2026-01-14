@@ -7,5 +7,5 @@ AUSTRALIAN Citizen |
 [email: friendlyantz@pm.me](mailto:friendlyantz+cv@pm.me)
 
 [GitHub: friendlyantz](https://github.com/friendlyantz) | 
-[LinkedIn: /in/panteleev](https://www.linkedin.com/in/panteleev)
-[Contact Details](https://hihello.me/p/db5da52c-99b3-4945-b2f9-259e398f6541) |
+[LinkedIn: /in/panteleev](https://www.linkedin.com/in/panteleev) | 
+[Contact Details](https://hihello.me/p/db5da52c-99b3-4945-b2f9-259e398f6541)

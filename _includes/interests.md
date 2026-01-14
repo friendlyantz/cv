@@ -1,2 +1,2 @@
 ### Interests
-Kitesurfing, motorcycing, photography, travel
+Kitesurfing, motorcycling, photography, travel
