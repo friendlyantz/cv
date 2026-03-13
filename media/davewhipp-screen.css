@@ -77,16 +77,18 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 70%;
+	font-size: 88%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #777;
 }
 
 p code {
 	position: absolute;
 	text-align: right;
 	right: -20%;
+	font-size: 92%;
+	line-height: 1.3;
 }
 
 
