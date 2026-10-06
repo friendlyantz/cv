@@ -78,9 +78,8 @@ code {
 }
 
 p code {
-	position: absolute;
-	text-align: right;
-	right: 0;
+	float: right;
+	margin-left: 1em;
 }
 
 
