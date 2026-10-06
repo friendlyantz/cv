@@ -1,11 +1,7 @@
 # Anton Panteleev
 
-<!-- Software Engineer, with extensive Product experience -->
+Senior Software Engineer \| Backend and guardrails for AI agents \| Kotlin, Rails, Python
 
-AUSTRALIAN Citizen |
-[friendlyantz.me](https://friendlyantz.me) |
-[email: friendlyantz@pm.me](mailto:friendlyantz+cv@pm.me)
+Melbourne, Australia \| Australian citizen \| E-3 visa eligible (USA)
 
-[GitHub: friendlyantz](https://github.com/friendlyantz) | 
-[LinkedIn: /in/panteleev](https://www.linkedin.com/in/panteleev) | 
-[Contact Details](https://hihello.me/p/db5da52c-99b3-4945-b2f9-259e398f6541)
+[friendlyantz.me](https://friendlyantz.me) \| [panteleev23@gmail.com](mailto:panteleev23@gmail.com) \| [github.com/friendlyantz](https://github.com/friendlyantz) \| [linkedin.com/in/panteleev](https://www.linkedin.com/in/panteleev)

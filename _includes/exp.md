@@ -1,40 +1,36 @@
 ## Work Experience
 
-`2025.SEP-2025.DEC`
-__Marketplacer__, Software Engineer. Melbourne, AUS
+`2026.APR-Present`
+__Culture Amp__, Senior Software Engineer. Melbourne, AUS
 
-- Developed Marketplacer’s platform using React, Ruby on Rails, and GraphQL to connect large retailers with small online sellers.
-- Implemented payment system setup via Airwallex and delivered scalable account reconciliation solutions in a fast-paced scale-up to enhance user experience and marketplace integration.
-- Mentored junior engineers
+- __Tool backend for AI Coach.__ Senior engineer on Multi-Source Insights, the Kotlin/Ktor service Coach's LangGraph agent calls for turnover-risk insights over survey, performance and demographic data; drove its authorization, architecture hardening and admin APIs; reviewed 100+ PRs.
+- __Agent guardrails.__ Designed the Cerbos policy-as-code authorization that scopes each Coach tool call to the leader's permitted population and demographic tier
+- __Production tool endpoints.__ Shipped the v2 insight endpoints Coach invokes as tools (turnover-risk hotspots for high performers), plus a fail-closed allowlist for sensitive demographics.
+- __Multi-agent harness.__ Designed the team's Claude Code harness (13 role agents, 5 agent teams, skills, rules, hooks); used it for LLM-augmented PR reviews and a team-verified refactoring assessment.
+- __Cross-team delivery.__ Owned sales-demo data end to end, from Solution Preview to a flag-gated AWS Step Function integration across three teams, so demo accounts can hold Coach conversations.
+- __Reliability.__ Matured the SQS FIFO job runner (job-outcome contract, idempotency keying)
+
+`2025.SEP-2025.DEC`
+__Marketplacer__, Senior Software Engineer. Melbourne, AUS
+
+- Integrated Airwallex payments and account reconciliation (Rails, React, GraphQL) for a marketplace with millions of shoppers.
 
 `2023.OCT-2025.JUL`
 __Fresho__, Software Engineer. Melbourne, AUS
 
-- 'Extreme Programming' using Test Driven Dev methodologies to deliver high performance and scalable B2B SaaS solution for AUS/UK food and hospitality industries
-- Delivered distributed event-driven micro applications to allow users predict cashflow
+- Built event-driven cashflow-forecasting services for a B2B food-ordering platform (AUS/UK).
 
 `2021.NOV-2023.AUG`
-__Zepto__, Software Engineer. Melbourne, AUS
+__Zepto__ (fintech, Series A 2022), Software Engineer. Melbourne, AUS
 
-- Built Anti-Money Laundering and financial crime compliance infrastructure using Ruby on Rails for AI and Machine Learning processing using Ruby on Rails, PostgreSQL, Datadog, Terraform
-- Built Digital Ledger prototype, using Event Bus on Amazon AWS
-- Improved security via DataDog Observability, Okta, CrowdStrike and GitHub advanced sec resulting in ISO compliance
-- Added prediction mechanism, resulting in faster response rate using Ruby on Rails, PostgreSQL, JavaScript, CypressTest, AWS, BuildKite
+- Built anti-money-laundering and financial-crime systems (Rails/PostgreSQL); led ISO 27001 hardening.
 
 `2021.MAY-2021.NOV`
 __ReadyTech__, Software Engineer. Melbourne, AUS
 
-- Built AI & machine learning human psychology assessment platform to improve student performance. Built big data pipeline to enhance deployment stability in AWS, BuildKite
-<!-- - Excellent Team Player - ensured team of 6 was fully caffeinated with Antarctican coffee beans ground to 14 nm particles -->
-- Improved Machine Learning knowledge and documented in Jupyter Labs on cloud
+- Built a student psychometric assessment platform and the AWS pipeline feeding its ML scoring.
 
-<!-- `2013 - 2020`
-- Optimized web app feed performance through new server-side functionality to quickly resolve big data pipeline
-- Successfully tested Google developed Tensorflow then switched to Facebook developed Pytorch
-- Airbnb developed Airflow is where I had run data pipelines. -->
+`2009-2020`
+__FloatCulture (founder) / CBRE / RCP__, Founder; Client-side Project Manager
 
-`2009 - 2020`
-__CBRE / RCP / FloatCulture__ - Engineering Project Manager
-
-- Successfully managed multi-million dollar development projects for internation investment funds across AU / NZ / Europe
-- Improved standard operation procedure algorithms efficiency and accuracy through Kanban, Kaizen, HRKwargs and Six Sigma
+- Founded and ran FloatCulture, a float centre startup in Auckland; managed multi-million dollar projects for investment funds.
