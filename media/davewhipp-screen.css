@@ -72,22 +72,22 @@ p {
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 75%;
 }
 
 code {
 	font: normal normal;
-	font-size: 88%;
+	font-size: 100%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #777;
+	color: #555;
 }
 
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
-	font-size: 92%;
+	right: 0;
+	font-size: 100%;
 	line-height: 1.3;
 }
 
