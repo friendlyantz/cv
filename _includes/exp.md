@@ -1,40 +1,38 @@
 ## Work Experience
 
-`2025.SEP-2025.DEC`
-__Marketplacer__, Software Engineer. Melbourne, AUS
+`2026.APR-Present`
+__Culture Amp__, Senior Software Engineer. Melbourne, AUS
 
-- Developed Marketplacer’s platform using React, Ruby on Rails, and GraphQL to connect large retailers with small online sellers.
-- Implemented payment system setup via Airwallex and delivered scalable account reconciliation solutions in a fast-paced scale-up to enhance user experience and marketplace integration.
-- Mentored junior engineers
+- Technical lead for authorization, architecture and admin configuration APIs on a Kotlin/Ktor insights service; primary code reviewer (100+ PRs) across Kotlin and Rails repos.
+- Designed and shipped scoped authorization with Cerbos policy-as-code; wrote the end-to-end test that caught two production-blocking defects before release.
+- Led service hardening: scored refactoring assessment, phased backlog of small PRs, composition-root refactor with fail-fast config.
+- Owned sales-demo data end to end, from Solution Preview to a flag-gated AWS Step Function integration, coordinating three teams and five repositories.
+- Matured the SQS FIFO job runner (job-outcome contract, idempotency keying); caught a compare-and-swap race and a runbook bug during a Flyway lock incident.
+- Wrote design docs, ADR reviews and the onboarding guide; built the team's Claude Code harness.
+
+`2025.SEP-2025.DEC`
+__Marketplacer__, Senior Software Engineer. Melbourne, AUS
+
+- Built marketplace features (React, Rails, GraphQL) connecting large retailers with small sellers; shipped Airwallex payment setup and account reconciliation. Mentored junior engineers.
 
 `2023.OCT-2025.JUL`
 __Fresho__, Software Engineer. Melbourne, AUS
 
-- 'Extreme Programming' using Test Driven Dev methodologies to deliver high performance and scalable B2B SaaS solution for AUS/UK food and hospitality industries
-- Delivered distributed event-driven micro applications to allow users predict cashflow
+- XP and TDD delivering a scalable B2B SaaS platform for AUS/UK food and hospitality.
+- Delivered distributed event-driven micro applications that let users predict cashflow.
 
 `2021.NOV-2023.AUG`
 __Zepto__, Software Engineer. Melbourne, AUS
 
-- Built Anti-Money Laundering and financial crime compliance infrastructure using Ruby on Rails for AI and Machine Learning processing using Ruby on Rails, PostgreSQL, Datadog, Terraform
-- Built Digital Ledger prototype, using Event Bus on Amazon AWS
-- Improved security via DataDog Observability, Okta, CrowdStrike and GitHub advanced sec resulting in ISO compliance
-- Added prediction mechanism, resulting in faster response rate using Ruby on Rails, PostgreSQL, JavaScript, CypressTest, AWS, BuildKite
+- Built AML and financial crime compliance infrastructure for ML processing on Rails and AWS.
+- Hardened security via Okta, CrowdStrike and GitHub Advanced Security to ISO compliance.
 
 `2021.MAY-2021.NOV`
 __ReadyTech__, Software Engineer. Melbourne, AUS
 
-- Built AI & machine learning human psychology assessment platform to improve student performance. Built big data pipeline to enhance deployment stability in AWS, BuildKite
-<!-- - Excellent Team Player - ensured team of 6 was fully caffeinated with Antarctican coffee beans ground to 14 nm particles -->
-- Improved Machine Learning knowledge and documented in Jupyter Labs on cloud
-
-<!-- `2013 - 2020`
-- Optimized web app feed performance through new server-side functionality to quickly resolve big data pipeline
-- Successfully tested Google developed Tensorflow then switched to Facebook developed Pytorch
-- Airbnb developed Airflow is where I had run data pipelines. -->
+- Built an AI/ML psychology assessment platform for students and its AWS data pipeline.
 
 `2009 - 2020`
 __CBRE / RCP / FloatCulture__ - Engineering Project Manager
 
-- Successfully managed multi-million dollar development projects for internation investment funds across AU / NZ / Europe
-- Improved standard operation procedure algorithms efficiency and accuracy through Kanban, Kaizen, HRKwargs and Six Sigma
+- Managed multi-million dollar development projects for international investment funds.
