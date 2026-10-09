@@ -1,11 +1,11 @@
   ## Key responsibilities
 
-  - Technical lead for MSS authorization (Leaders of Scale), service-architecture
-    hardening, the admin configuration API, and the background-job runner's
-    idempotency model.
+  - Drove MSS authorization (Leaders of Scale), service-architecture hardening,
+    the admin configuration API, and the background-job runner's idempotency
+    model.
   - Epic owner for "Implement MSI in sales demo accounts" (ERS-5569), coordinating
     across three teams and five repositories.
-  - Primary code reviewer for the MSS service (100+ reviews) plus reviews in Murmur,
+  - Reviewed 100+ PRs on the MSS service plus reviews in Murmur,
     the MSI UI, cerbos-ops, demo-accounts and several platform repos.
   - Author of the team's design and decision records: Solution Previews, an Open
     Questions tracker, a refactoring assessment, an ADR review, and an onboarding
