@@ -1,6 +1,6 @@
 ## Work Experience
 
-`2026.APR-Present`
+`2026`
 __Culture Amp__, Senior Software Engineer. Melbourne, AUS
 
 - __Tool backend for AI Coach.__ Senior engineer on Multi-Source Insights, the Kotlin/Ktor service Coach's LangGraph agent calls for turnover-risk insights over survey, performance and demographic data; drove its authorization, architecture hardening and admin APIs; reviewed 100+ PRs.
@@ -10,22 +10,22 @@ __Culture Amp__, Senior Software Engineer. Melbourne, AUS
 - __Cross-team delivery.__ Owned sales-demo data end to end, from Solution Preview to a flag-gated AWS Step Function integration across three teams, so demo accounts can hold Coach conversations.
 - __Reliability.__ Matured the SQS FIFO job runner (job-outcome contract, idempotency keying)
 
-`2025.SEP-2025.DEC`
+`2025`
 __Marketplacer__, Senior Software Engineer. Melbourne, AUS
 
 - Integrated Airwallex payments and account reconciliation (Rails, React, GraphQL) for a marketplace with millions of shoppers.
 
-`2023.OCT-2025.JUL`
+`2023-2025`
 __Fresho__, Software Engineer. Melbourne, AUS
 
 - Built event-driven cashflow-forecasting services for a B2B food-ordering platform (AUS/UK).
 
-`2021.NOV-2023.AUG`
+`2021-2023`
 __Zepto__ (fintech, Series A 2022), Software Engineer. Melbourne, AUS
 
 - Built anti-money-laundering and financial-crime systems (Rails/PostgreSQL); led ISO 27001 hardening.
 
-`2021.MAY-2021.NOV`
+`2021`
 __ReadyTech__, Software Engineer. Melbourne, AUS
 
 - Built a student psychometric assessment platform and the AWS pipeline feeding its ML scoring.

@@ -1,6 +1,6 @@
 # Anton Panteleev
 
-Senior Software Engineer \| Backend and guardrails for AI agents \| Kotlin, Rails, Python
+Senior Software Engineer \| Production systems and AI agent engineering \| Kotlin, Rails, Python
 
 Melbourne, Australia \| Australian citizen \| E-3 visa eligible (USA)
 
